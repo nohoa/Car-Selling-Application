@@ -6,7 +6,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 @SpringBootTest
 class CarsellApplicationTests {
 
-	// Testing
+	// Test
 	@Test
 	void contextLoads() {
 	}
