@@ -8,11 +8,11 @@
 		<version>3.4.2</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.movie</groupId>
-	<artifactId>movies</artifactId>
+	<groupId>dev.car</groupId>
+	<artifactId>carsell</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>movies</name>
-	<description>Spring Boot Application for Movies</description>
+	<name>carsell</name>
+	<description>Car Selling Web Applications</description>
 	<url/>
 	<licenses>
 		<license/>
